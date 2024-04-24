@@ -1,21 +1,26 @@
 name: LDES_sync_download
 
 on:
-    push:
-        branches: [main]
+  push:
+    branches: [main]
 
 jobs:
-    sync_download_ldes:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v3
-            - name: LDES harvest_sync 
-              uses: cedricdcc/ldes-sync-harvest-action@latest
-            - name: Commit and push changes to main branch
-              run: |
-                git config --global user.name 'GitHub Actions'
-                git config --global user.email 'actions@github.com'
-                git add .
-                git commit -m "Update LDES files"
-                git push
+  sync_download_ldes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: make ldes hash file if not exists
+        run: |
+          if [ ! -f .github/ldes_sync_harvest ]; then
+              git rev-parse HEAD > .github/last_ldes_hash
+          fi
+      - name: LDES harvest_sync
+        uses: cedricdcc/ldes-sync-harvest-action@latest
+      - name: Commit and push changes to main branch
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add .
+          git commit -m "Update LDES files"
+          git push
