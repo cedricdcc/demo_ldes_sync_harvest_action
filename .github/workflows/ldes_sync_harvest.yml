@@ -12,8 +12,8 @@ jobs:
         uses: actions/checkout@v3
       - name: make ldes hash file if not exists
         run: |
-          if [ ! -f .github/ldes_sync_harvest ]; then
-              git rev-parse HEAD > .github/last_ldes_hash
+          if [ ! -f ldes/ldes_sync_harvest ]; then
+              git rev-parse HEAD > ldes/last_ldes_hash
           fi
       - name: LDES harvest_sync
         uses: cedricdcc/ldes-sync-harvest-action@latest
