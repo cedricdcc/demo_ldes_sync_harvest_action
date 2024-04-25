@@ -13,7 +13,7 @@ labels:
     path: "http://www.w3.org/2004/02/skos/core#definition"
     original: "Concentrations of adenylates (ADP, ATP etc) in all phases of the water column"
     translations:
-      - fr: ""
+      - fr: "Concentrations d'adénylates (ADP, ATP, etc.) dans toutes les phases de la colonne d'eau."
       - es: ""
       - de: ""
       - it: ""
