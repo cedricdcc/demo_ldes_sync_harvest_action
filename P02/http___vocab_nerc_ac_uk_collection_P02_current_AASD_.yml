@@ -13,7 +13,7 @@ labels:
     path: "http://www.w3.org/2004/02/skos/core#definition"
     original: "Parameters quantifying the amount of alkenones (unsaturated aliphatic ketones) and alkenoates (carboxylic acid esters) in any unconsolidated sediment including fluff."
     translations:
-      - fr: ""
+      - fr: "Paramètres quantifiant la quantité d'alkénones (cétones aliphatiques insaturées) et d'alcénoates (esters d'acide carboxylique) dans tout sédiment non consolidé, y compris la fluff."
       - es: ""
       - de: ""
       - it: ""
