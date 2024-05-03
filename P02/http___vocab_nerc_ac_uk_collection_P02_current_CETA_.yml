@@ -1,4 +1,3 @@
-
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/CETA/3/"
 labels:
   - name: "altLabel"
@@ -15,5 +14,5 @@ labels:
     translations:
       - fr: ""
       - es: ""
-      - de: ""
+      - de: "Parameters, die die Anzahl der spezifizierten Mitglieder der Ordnung Cetacea zu einem bestimmten Zeitpunkt und an einem bestimmten Ort angeben, einschließlich Präsenz-/Abwesenheitsindikatoren."
       - it: ""

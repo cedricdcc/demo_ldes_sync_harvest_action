@@ -1,4 +1,3 @@
-
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/ATPC/2/"
 labels:
   - name: "altLabel"
@@ -13,7 +12,7 @@ labels:
     path: "http://www.w3.org/2004/02/skos/core#definition"
     original: "Parameters quantifying and categorising the particulate phases (solids and aerosols) of the atmosphere, excluding chemical composition"
     translations:
-      - fr: ""
+      - fr: "Paremètres quantifiant et catégorisant les phases particulaires (solides et aérosols) de l'atmosphère, à l'exclusion de la composition chimique"
       - es: ""
-      - de: ""
-      - it: ""
+      - de: "Parameter, die die Partikelphasen (Feststoffe und Aerosole) der Atmosphäre quantifizieren und kategorisieren, unter Ausschluss der chemischen Zusammensetzung"
+      - it: "Parametri che quantificano e categorizzano le fasi particolari (solidi e aerosol) dell'atmosfera, escludendo la composizione chimica"
