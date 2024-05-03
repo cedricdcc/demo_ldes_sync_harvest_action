@@ -1,4 +1,3 @@
-
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/AASD/2/"
 labels:
   - name: "altLabel"
@@ -13,7 +12,7 @@ labels:
     path: "http://www.w3.org/2004/02/skos/core#definition"
     original: "Parameters quantifying the amount of alkenones (unsaturated aliphatic ketones) and alkenoates (carboxylic acid esters) in any unconsolidated sediment including fluff."
     translations:
-      - fr: ""
+      - fr: "Paramètres quantifiant la quantité d'alcénones (cétones aliphatiques insaturées) et d'alcénoates (esters d'acides carboxyliques) dans tout sédiment non consolidé, y compris la fluffe."
       - es: ""
       - de: ""
       - it: ""
