@@ -1,3 +1,4 @@
+
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/ACO2/2/"
 labels:
   - name: "altLabel"
@@ -14,5 +15,5 @@ labels:
     translations:
       - fr: ""
       - es: ""
-      - de: "CO- und CO2-Konzentrationsparameter in jeder Phase der Atmosphäre (aber normalerweise in der gasförmigen Phase). Enthält pCO2."
+      - de: ""
       - it: ""

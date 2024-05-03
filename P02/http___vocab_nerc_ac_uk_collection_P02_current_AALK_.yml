@@ -1,3 +1,4 @@
+
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/AALK/1/"
 labels:
   - name: "altLabel"
@@ -13,6 +14,6 @@ labels:
     original: "Alkane concentrations in all phases of the atmosphere"
     translations:
       - fr: ""
-      - es: "Alcanos en todas las fases de la atmósfera"
+      - es: ""
       - de: ""
       - it: ""
