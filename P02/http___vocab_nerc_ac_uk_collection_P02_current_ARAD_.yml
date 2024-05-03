@@ -1,18 +1,21 @@
-uri: "http://vocab.nerc.ac.uk/collection/P02/current/ARAD/1/"
 labels:
-  - name: "altLabel"
-    path: "http://www.w3.org/2004/02/skos/core#altLabel"
-    original: "AtmosRad"
-    translations:
-      - fr: ""
-      - es: ""
-      - de: ""
-      - it: ""
-  - name: "definition"
-    path: "http://www.w3.org/2004/02/skos/core#definition"
-    original: "All parameters associated with radioactivity in the atmosphere, including radiation counts, isotope activities and activity ratios."
-    translations:
-      - fr: "Tous les paramètres associés à la radioactivité dans l'atmosphère, y compris les comptages de rayonnement, les activités isotopiques et les rapports d'activité."
-      - es: "Todos los parámetros asociados con la radiactividad en la atmósfera, incluidos los recuentos de radiación, las actividades isotópicas y las relaciones de actividad."
-      - de: ""
-      - it: ""
+- name: altLabel
+  original: AtmosRad
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+  - es: ''
+  - de: ''
+  - it: ''
+- name: definition
+  original: All parameters associated with radioactivity in the atmosphere, including
+    radiation counts, isotope activities and activity ratios.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: Tous les paramètres associés à la radioactivité dans l'atmosphère, y compris
+      les comptages de rayonnement, les activités isotopiques et les rapports d'activité.
+  - es: Todos los parámetros asociados con la radiactividad en la atmósfera, incluidos
+      los recuentos de radiación, las actividades isotópicas y las relaciones de actividad.
+  - de: ''
+  - it: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/ARAD/1/
