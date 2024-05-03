@@ -10,14 +10,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: make ldes hash file if not exists
-        run: |
-          if [ ! -f ldes/ldes_sync_harvest ]; then
-              if [ ! -d ldes ]; then
-                  mkdir ldes
-              fi
-              git rev-parse HEAD > ldes/last_ldes_hash
-          fi
       - name: LDES harvest_sync
         uses: cedricdcc/ldes-sync-harvest-action@latest
       - name: Commit and push changes to main branch
