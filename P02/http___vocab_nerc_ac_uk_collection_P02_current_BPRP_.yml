@@ -1,4 +1,3 @@
-
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/BPRP/4/"
 labels:
   - name: "altLabel"
@@ -13,7 +12,7 @@ labels:
     path: "http://www.w3.org/2004/02/skos/core#definition"
     original: "Parameters that quantify any attribute of a biological entity specified elsewhere in the data model and therefore do not map to the existing biologically classified P02 categories. This concept is used as a temporary grouping of parameter codes created for the SeaDataNet biological standard format."
     translations:
-      - fr: ""
+      - fr: "Paremètres qui quantifient n'importe quelle caractéristique d'une entité biologique spécifiée ailleurs dans le modèle de données et qui ne correspondent donc pas aux catégories P02 biologiquement classées existantes. Ce concept est utilisé comme regroupement temporaire de codes de paramètres créés pour le format standard biologique de SeaDataNet."
       - es: ""
       - de: ""
       - it: ""
