@@ -18,6 +18,15 @@ jobs:
               echo "Pull request not merged"
               exit 1
           fi
+      - name: get the current hash of the main branch and the changed files
+        run: |
+          current_hash=$(git rev-parse main)
+          last_hash=$(cat .github/last_ldes_hash)
+          echo "Current hash: $current_hash"
+          echo "Last hash: $last_hash"
+          changed_files=$(git diff --name-only $last_hash $current_hash)
+          echo "Changed files: $changed_files"
+
       - name: LDES fragment maker and publisher
         uses: cedricdcc/ldes-fragment-maker-action@latest
       - name: Deploy to GitHub Pages
