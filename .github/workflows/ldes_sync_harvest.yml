@@ -3,6 +3,7 @@ name: LDES_sync_download
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   sync_download_ldes:
