@@ -1,4 +1,4 @@
-batch-size: 10
+batch-size: 100
 target_languages:
   - fr
   - es
