@@ -27,3 +27,16 @@ jobs:
           git add .
           git commit -m "Update LDES files"
           git push
+      - name: Commit and push changes to restricted/ldes branch
+        run: |
+          git fetch origin
+          if ! git rev-parse --verify origin/restricted/ldes; then
+            git checkout -b restricted/ldes
+            git push --set-upstream origin restricted/ldes
+          else
+            git checkout restricted/ldes
+          fi
+          git add .
+          git commit -m "Update LDES files"
+          git push
+        
