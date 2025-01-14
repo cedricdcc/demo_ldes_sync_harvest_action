@@ -20,24 +20,3 @@ jobs:
         uses: cedricdcc/ldes-sync-harvest-action@latest
         env:
           BRANCHES: ${{ env.BRANCHES }}
-      - name: Commit and push changes to main branch
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add .
-          git commit -m "Update LDES files"
-          git push
-      - name: Commit and push changes to restricted/ldes branch
-        run: |
-          git fetch origin
-          if ! git rev-parse --verify origin/restricted/ldes; then
-            git checkout -b restricted/ldes main
-            git push --set-upstream origin restricted/ldes
-          else
-            git checkout restricted/ldes
-            git merge main
-          fi
-          git add .
-          git commit -m "Update LDES files"
-          git push
-        
