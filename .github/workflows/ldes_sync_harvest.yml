@@ -31,10 +31,11 @@ jobs:
         run: |
           git fetch origin
           if ! git rev-parse --verify origin/restricted/ldes; then
-            git checkout -b restricted/ldes
+            git checkout -b restricted/ldes main
             git push --set-upstream origin restricted/ldes
           else
             git checkout restricted/ldes
+            git merge main
           fi
           git add .
           git commit -m "Update LDES files"
