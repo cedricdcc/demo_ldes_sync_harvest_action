@@ -1370,11 +1370,6 @@
         "branch": "batch-2"
     },
     {
-        "name": "http___vocab_nerc_ac_uk_collection_P02_current_A01X_.yml",
-        "status": "recieved",
-        "branch": "batch-2"
-    },
-    {
         "name": "http___vocab_nerc_ac_uk_collection_P02_current_PHSE_.yml",
         "status": "recieved",
         "branch": "batch-2"
