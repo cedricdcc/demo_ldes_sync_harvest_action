@@ -1,0 +1,658 @@
+<http://vocab.nerc.ac.uk/collection/P02/current/FREP/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FREP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FREP/> <http://purl.org/dc/terms/modified> "2023-12-11T15:57:56"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FREP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Fish_Rep";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the extent, intensity, timing and method of reproduction in fish (Osteichthyes, Agnatha and Chrondrichthyes) including fecundity, reproductive rates, spawning, and nursery grounds.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/LRWL/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/LRWL/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/LRWL/> <http://purl.org/dc/terms/modified> "2023-08-30T11:08:53"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::LRWL";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "LakeRiverLevel";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the vertical distance (height or elevation) of river or lake water from a specified point of reference to the water's surface. Rivers are defined as being upstream from the tidal limit.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SPCN/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SPCN/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SPCN/> <http://purl.org/dc/terms/modified> "2023-08-02T11:45:27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SPCN";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "SingleParticle_char";
+    <http://www.w3.org/2004/02/skos/core#definition> "Physical, chemical or optical properties of individual solid particles.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/EPSV/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/EPSV/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/EPSV/> <http://purl.org/dc/terms/modified> "2023-08-01T15:58:28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::EPSV";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Raw_turbulence";
+    <http://www.w3.org/2004/02/skos/core#definition> "Raw direct output parameters from microstructure sensors, probes or profilers that are used to determine the distribution of water body properties on a millimetric scale.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SBGE/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SBGE/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SBGE/> <http://purl.org/dc/terms/modified> "2023-07-03T11:35:46"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SBGE";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Seabed_Geomorph";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters associated with seafloor landforms and features such as bedforms, seamounts and ridges, including morphology, evolution and associated transport phenomena.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/MDPW/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/MDPW/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/MDPW/> <http://purl.org/dc/terms/modified> "2023-06-01T10:56:11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::MDPW";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Metoid_SedPW";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentration parameters for trace metalloid elements and inorganic selenium species in water occupying the space between sediment grains. Trace metalloids are considered as B, Ge, As, Sb, Te, and Po (but not Si which is classed separately because of its major role in environmental chemistry).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/MDBO/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/MDBO/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/MDBO/> <http://purl.org/dc/terms/modified> "2023-06-01T10:56:10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::MDBO";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Metoid_Biota";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentration parameters for trace metalloid elements and inorganic selenium species in either whole organisms or their constituent parts. Trace metalloids are considered as B, Ge, As, Sb, Te, and Po (but not Si which is classed separately because of its major role in environmental chemistry).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/PXSD/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/PXSD/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/PXSD/> <http://purl.org/dc/terms/modified> "2023-04-21T11:55:38"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::PXSD";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sed_Phosphorus";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentrations of total, organic and inorganic phosphorus per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FDMS/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FDMS/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FDMS/> <http://purl.org/dc/terms/modified> "2022-05-03T06:36:22"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FDMS";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WCAt_GasFlux";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters related to the quantification of fluxes of any gaseous species from water column to atmosphere including parameters characterising closely related processes such as bubble formation in the surface layer.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FOCA/7/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FOCA/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FOCA/> <http://purl.org/dc/terms/modified> "2022-04-27T16:57:20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FOCA";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Seal_Abund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters related to the distribution of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae)at a particular time and location, including presence/absence indicators.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/OMPW/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/OMPW/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/OMPW/> <http://purl.org/dc/terms/modified> "2022-04-27T16:57:20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::OMPW";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sed_OrganoMet";
+    <http://www.w3.org/2004/02/skos/core#definition> "All organometallic and orgamometalloid compound concentration parameters (including saturations for gaseous species) in all phases of sediments (including pore waters)".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/CPWC/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/CPWC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/CPWC/> <http://purl.org/dc/terms/modified> "2022-04-27T16:57:20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::CPWC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_ChlPigs";
+    <http://www.w3.org/2004/02/skos/core#definition> "Includes all variants of chlorophyll expressed in terms of per unit volume, per unit area of any body of fresh or salt water, or as a relative colour index (e.g. PCI). Does not include data expressed per unit mass of SPM.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/AMON/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/AMON/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/AMON/> <http://purl.org/dc/terms/modified> "2022-04-27T16:57:20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::AMON";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_NH4";
+    <http://www.w3.org/2004/02/skos/core#definition> "Ammonium and ammonia concentration parameters (including statistical parameters such as standard deviation) in any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/DMST/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/DMST/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/DMST/> <http://purl.org/dc/terms/modified> "2022-04-27T16:57:20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::DMST";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_OrgS";
+    <http://www.w3.org/2004/02/skos/core#definition> "All organosulphur and organoselenium compound concentration parameters (including saturations for gaseous species) in all phases of any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/OMWC/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/OMWC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/OMWC/> <http://purl.org/dc/terms/modified> "2022-04-27T16:57:20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::OMWC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Water_OrganoMet";
+    <http://www.w3.org/2004/02/skos/core#definition> "All organometallic and organometalloid compound concentration parameters (including saturations for gaseous species) in all phases of any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/RALT/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/RALT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/RALT/> <http://purl.org/dc/terms/modified> "2022-03-21T11:28:44"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::RALT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "RockAlt";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing aspects of a geologic unit that are the result of bulk chemical, mineralogical or physical changes related to change in the physical or chemical environment.  Includes weathering, supergene alteration, hydrothermal alteration and metasomatic effects not considered metamorphic.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/AMOX/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/AMOX/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/AMOX/> <http://purl.org/dc/terms/modified> "2022-01-29T12:35:25"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::AMOX";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_Nitrif_Denitr";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters quantifying rates associated with nitrification (oxidation of reduced nitrogen such as ammonium) and denitrification (conversion of nitrate into gaseous compounds such as nitric oxide, nitrous oxide and molecular nitrogen) processes in the water column of any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/PESP/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/PESP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/PESP/> <http://purl.org/dc/terms/modified> "2021-05-18T16:10:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::PESP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Pesticide_SPM";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentration parameters for substances synthesised by man to kill other life forms in suspended particulate material (SPM) collected by water column filtration, centrifugation or sediment trapping. Only includes parameters expressed per unit mass of SPM and not per unit volume of the water column.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/MTSD/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/MTSD/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/MTSD/> <http://purl.org/dc/terms/modified> "2020-10-20T15:00:08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::MTSD";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Met_Sed";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentrations of metal elements per unit weight of sediment.  Sediment is understood to be the solid phase of the bed, including the recently settled material sometimes known as fluff collected from the bed surface.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/GP013/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/GP013/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/GP013/> <http://purl.org/dc/terms/modified> "2020-10-17T20:07:47"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::GP013";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "CoralHealth";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters related to the health and conservation status of coral species and coralligenous habitats.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FADS/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FADS/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FADS/> <http://purl.org/dc/terms/modified> "2019-07-26T11:05:38"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FADS";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "FAD usage statistics";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing usage of Fish Aggregating Devices (FAD) in fisheries (particularly purse seine tuna fisheries).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ATPX/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ATPX/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ATPX/> <http://purl.org/dc/terms/modified> "2019-06-13T08:54:58"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ATPX";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Aden_WC";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentrations of adenylates (ADP, ATP etc) in all phases of the water column".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/GP025/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/GP025/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/GP025/> <http://purl.org/dc/terms/modified> "2019-05-31T19:13:30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::GP025";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "SealRepr";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters related to the reproduction of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SEBH/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SEBH/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SEBH/> <http://purl.org/dc/terms/modified> "2019-05-31T19:13:30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SEBH";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Seal_Behav";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the actions or reactions, usually in response to the environment, of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SEMP/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SEMP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SEMP/> <http://purl.org/dc/terms/modified> "2019-05-31T19:13:30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SEMP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Seal_Morph_Phys";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the size, shape or physiological activity including disease and parasite infection status of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SEMO/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SEMO/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SEMO/> <http://purl.org/dc/terms/modified> "2019-05-31T19:13:30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SEMO";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Seal_Mort";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the causes and rate of mortality of true seals (Phocidae), eared seals (Otariidae) and walruses (Odobenidae).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SAMP/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SAMP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SAMP/> <http://purl.org/dc/terms/modified> "2018-12-11T13:04:28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SAMP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "SamplingParams";
+    <http://www.w3.org/2004/02/skos/core#definition> "Qualitative and quantitative parameters related to the sampling activity; includes terms related to sampling effort, sampling gears, sample processing.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/LITT/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/LITT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/LITT/> <http://purl.org/dc/terms/modified> "2018-09-06T11:49:23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::LITT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Litter";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the abundance and nature of material classed as refuse introduced to the environment by activities of man that are not covered by the more specific P02 terms for micro-litter (UMLS and UMLW), beach litter (BLIT) or seafloor litter (SLIT).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SLIT/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SLIT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SLIT/> <http://purl.org/dc/terms/modified> "2018-09-06T11:48:34"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SLIT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "SeaFloorLitter";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the abundance and nature of litter data collected on the seabed.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BLIT/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BLIT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BLIT/> <http://purl.org/dc/terms/modified> "2018-09-06T11:45:25"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BLIT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "BeachLitter";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the abundance and nature of debris released on coastlines.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/D001/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/D001/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/D001/> <http://purl.org/dc/terms/modified> "2018-04-04T11:42:45"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::D001";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sed_MicroPhytoBiomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Any quantification of the mass (e.g. carbon, nitrogen, weight) of microalgae present on hard substrate or soft sediment at the bottom of any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FATM/6/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FATM/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FATM/> <http://purl.org/dc/terms/modified> "2018-02-12T14:04:58"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FATM";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Fish_MorphAgePhys";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters that quantify the size, shape, age and life processes (including mortality) of fish (Osteichthyes, Agnatha and Chrondrichthyes).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FATX/5/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FATX/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FATX/> <http://purl.org/dc/terms/modified> "2018-02-12T14:04:58"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FATX";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Fish_abund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters that quantify the numbers of fish (Osteichthyes, Agnatha and Chrondrichthyes) at a given location in any body of salt or fresh water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SABB/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SABB/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SABB/> <http://purl.org/dc/terms/modified> "2018-02-12T14:04:58"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SABB";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sfish_AbundBiom";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters that quantify the numbers or amount of living material of shellfish (molluscs - including cephalopods - and crustaceans of interest to fisheries research and commercial fisheries) in any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SATM/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SATM/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SATM/> <http://purl.org/dc/terms/modified> "2018-02-12T14:04:58"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SATM";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sfish_MorphAgePhys";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters that quantify the size, shape, age and life processes (including mortality) of shellfish (molluscs - including cephalopods - and crustaceans of interest to fisheries research and commercial fisheries).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SREP/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SREP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SREP/> <http://purl.org/dc/terms/modified> "2018-02-12T14:04:58"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SREP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sfish_Rep";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters that quantify the fecundity, reproductive rates or nature of reproduction in shellfish (molluscs - including cephalopods - and crustaceans of interest to fisheries research and commercial fisheries).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FCMW/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FCMW/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FCMW/> <http://purl.org/dc/terms/modified> "2018-01-11T12:13:10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FCMW";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "FCM_water";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters derived from flow cytometry data analysis of water samples using in situ or bench-top flow cytometers.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/UMLS/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/UMLS/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/UMLS/> <http://purl.org/dc/terms/modified> "2017-11-21T21:46:12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::UMLS";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sed_Microlitter";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the abundance and nature of microscopic particles of man-made materials and in particular microplastics present in the sediment.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/UMLW/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/UMLW/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/UMLW/> <http://purl.org/dc/terms/modified> "2017-11-21T21:40:48"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::UMLW";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_Microlitter";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters describing the abundance and nature of microscopic particles of man-made materials and in particular microplastics present in any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/D000/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/D000/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/D000/> <http://purl.org/dc/terms/modified> "2017-10-17T12:26:20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::D000";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sed_MicroPhytoAbund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Any quantification of the number (e.g. count, abundance) of microalgae present on hard substrate or soft sediment at the bottom of any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/HMSB/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/HMSB/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/HMSB/> <http://purl.org/dc/terms/modified> "2017-09-05T13:50:27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::HMSB";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Org_Mat_Water";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentration (not 380nm light absorption) parameters for dissolved or total organic matter (includes humics, yellow matter, Gelbstoff) in any body of salt or fresh water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BPRP/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BPRP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BPRP/> <http://purl.org/dc/terms/modified> "2017-08-11T11:06:28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BPRP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "SDN_BioFormatCodes";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters that quantify any attribute of a biological entity specified elsewhere in the data model and therefore do not map to the existing biologically classified P02 categories. This concept is used as a temporary grouping of parameter codes created for the SeaDataNet biological standard format.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SSTB/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SSTB/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SSTB/> <http://purl.org/dc/terms/modified> "2017-08-09T14:08:26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SSTB";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Iso_Sed";
+    <http://www.w3.org/2004/02/skos/core#definition> "Stable isotope parameters (concentrations, ratios and enrichments) in sediment, including biota-associated parameters such as isotope enrichment in foraminifera tests.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/WSTB/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/WSTB/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/WSTB/> <http://purl.org/dc/terms/modified> "2017-08-09T14:07:35"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::WSTB";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Iso_WC";
+    <http://www.w3.org/2004/02/skos/core#definition> "Stable isotope parameters (concentrations, ratios and enrichments) in both the dissolved and particulate phases of any body of fresh or salt water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/IRSP/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/IRSP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/IRSP/> <http://purl.org/dc/terms/modified> "2017-08-09T14:06:33"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::IRSP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Iso_Speleo";
+    <http://www.w3.org/2004/02/skos/core#definition> "Stable isotope parameters (concentrations, ratios and enrichments) in secondary mineral deposits in caves. This includes stalactites, stalagmites, flowstone, and crystal growths.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SIPW/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SIPW/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SIPW/> <http://purl.org/dc/terms/modified> "2017-08-09T14:05:42"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SIPW";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Iso_SedPoreWater";
+    <http://www.w3.org/2004/02/skos/core#definition> "Stable isotope parameters (concentrations, ratios and enrichments) in either the solute or solvent phase of sediment pore waters.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/IRBO/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/IRBO/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/IRBO/> <http://purl.org/dc/terms/modified> "2017-08-09T14:02:28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::IRBO";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Iso_Biota";
+    <http://www.w3.org/2004/02/skos/core#definition> "Stable isotope parameters (concentrations, ratios and enrichments) from measurements on living (at the time of sampling) organisms or parts thereof.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ISAT/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ISAT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ISAT/> <http://purl.org/dc/terms/modified> "2017-08-09T14:01:36"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ISAT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Iso_Atmos";
+    <http://www.w3.org/2004/02/skos/core#definition> "Stable isotope parameters (concentrations, ratios and enrichments) in both the gaseous and aerosol phases of the atmosphere.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/IRIC/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/IRIC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/IRIC/> <http://purl.org/dc/terms/modified> "2017-08-09T14:00:30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::IRIC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Iso_IceSnow";
+    <http://www.w3.org/2004/02/skos/core#definition> "Stable isotope parameters (concentrations, ratios and enrichments) in frozen precipitation (snow, hail, ice and slush), its accumulations (e.g. glaciers), sea ice and frozen fresh water.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/WRAD/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/WRAD/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/WRAD/> <http://purl.org/dc/terms/modified> "2017-08-09T13:54:31"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::WRAD";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_RadAct";
+    <http://www.w3.org/2004/02/skos/core#definition> "All parameters associated with radioactivity in any body of fresh or salt water, including radiation counts, isotope activities and activity ratios. Activities per unit mass of SPM are included.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ARAD/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ARAD/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ARAD/> <http://purl.org/dc/terms/modified> "2017-08-09T13:49:17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ARAD";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "AtmosRad";
+    <http://www.w3.org/2004/02/skos/core#definition> "All parameters associated with radioactivity in the atmosphere, including radiation counts, isotope activities and activity ratios.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BRDD/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BRDD/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BRDD/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BRDD";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Bird_taxa_abund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Bird (Class Aves) abundance per unit area (of land or sea) presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.These may be at any taxonomic level from sub-species upwards.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FBAF/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FBAF/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FBAF/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FBAF";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Fish_tax_afdw_biomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Fish (Osteichthyes, Agnatha and Chondrichthyes) ash-free dry weight biomass per unit area of bed (sea, river, lake etc.) parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals normally considered as planktonic if they have been returned from sediment samples.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FBAB/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FBAB/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FBAB/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FBAB";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Fish_tax_aubund_bed";
+    <http://www.w3.org/2004/02/skos/core#definition> "Fish (Osteichthyes, Agnatha and Chondrichthyes) abundance per unit area of bed (sea, river, lake etc.) parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals normally considered as planktonic if they have been returned from sediment samples.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FCNT/5/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FCNT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FCNT/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FCNT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Fish_taxa_count";
+    <http://www.w3.org/2004/02/skos/core#definition> "Fish (Osteichthyes, Agnatha and Chrondrichthyes) count parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards. Count includes presence/absence indicators.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/IWAB/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/IWAB/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/IWAB/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::IWAB";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "InsWorm_tax_abund_bed";
+    <http://www.w3.org/2004/02/skos/core#definition> "Insect (Class Insecta) and earthworm (Subclass Oligochaeta) abundance per unit area of bed (sea, river, lake etc.) parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals normally considered as planktonic if they have been returned from sediment samples. This parameter group has been implemented to separate predominantly freshwater taxa from predominantly marine taxa.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/IWDX/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/IWDX/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/IWDX/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::IWDX";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "InsWorm_tax_afdw_biomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Insect (Class Insecta) and earthworm (Subclass Oligochaeta) ash-free dry weight biomass per unit area of bed (sea, river, lake etc.) parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals normally considered as planktonic if they have been returned from sediment samples. This parameter group has been implemented to separate predominantly freshwater taxa from predominantly marine taxa.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/IATX/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/IATX/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/IATX/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::IATX";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Insect_taxa_abund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Insecta abundance parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/IATC/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/IATC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/IATC/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::IATC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Insect_txax_C_abund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Insecta carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/MATC/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/MATC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/MATC/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::MATC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Microzoo_taxa_C_biomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Microzooplankton carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards., but exclude morphological classifications such as 'heterotrophic flagellate'.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BDWC/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BDWC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BDWC/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BDWC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sed_TaxBacteriaAFDW";
+    <http://www.w3.org/2004/02/skos/core#definition> "Bacteria ash-free dry weight biomass in sediment parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  The taxa may be at any taxonomic level from sub-species upwards.  Bacteria are defined as all taxa that fall into Kingdom Monera in the ITIS taxonomy, which includes cyanobacteria.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BNTC/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BNTC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BNTC/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BNTC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_NontaxBacteriaCarbBiomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Basically any bacteria carbon biomass parameters that aren't included in parameter group BATC because they cannot be mapped to specific taxa in a standard taxonomy registry such as WoRMS or ITIS.  Bacteria are defined as Kingdom Monera, which includes cyanobacteria.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BATC/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BATC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BATC/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BATC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_TaxBacteriaCarbBiomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Bacteria carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.  Bacteria are defined as all taxa that fall into Kingdom Monera in the ITIS taxonomy, which includes cyanobacteria.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/V999/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/V999/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/V999/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::V999";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_TaxMicrozooBiovol";
+    <http://www.w3.org/2004/02/skos/core#definition> "Microzooplankton biovolume parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS. These may be at any taxonomic level from sub-species upwards.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/A999/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/A999/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/A999/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::A999";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_TaxMicrozooSurfArea";
+    <http://www.w3.org/2004/02/skos/core#definition> "Microzooplankton surface area per unit volume of the water column parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ZCTC/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ZCTC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ZCTC/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ZCTC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Zoo_taxa_C_biomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) carbon biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ZCTN/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ZCTN/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ZCTN/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ZCTN";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Zoo_taxa_N_biomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) nitrogen biomass parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ZATX/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ZATX/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ZATX/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ZATX";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Zoo_taxa_abund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Zooplankton (mesozooplankton plus larger pelagic animals excluding fish, reptiles and mammals) abundance parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ZWTX/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ZWTX/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ZWTX/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ZWTX";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Zoobenth_tax_ww_biomass";
+    <http://www.w3.org/2004/02/skos/core#definition> "Zoobenthos wet weight biomass per unit area parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  Includes animals considered as planktonic if they have been returned from sediment samples.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ZOOB/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ZOOB/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ZOOB/> <http://purl.org/dc/terms/modified> "2017-07-17T12:08:43"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ZOOB";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Zoobenth_taxa_count";
+    <http://www.w3.org/2004/02/skos/core#definition> "Zoobenthos count parameters presented at the level of taxa that may be mapped to entities in a standard taxonomy registry such as WoRMS or ITIS.  These may be at any taxonomic level from sub-species upwards. Count includes presence/absence indicators.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/INAP/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/INAP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/INAP/> <http://purl.org/dc/terms/modified> "2017-05-02T13:09:15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::INAP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Inapplicable";
+    <http://www.w3.org/2004/02/skos/core#definition> "There is no appropriate value.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/DGPW/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/DGPW/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/DGPW/> <http://purl.org/dc/terms/modified> "2017-02-02T16:31:19"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::DGPW";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Sed_O2";
+    <http://www.w3.org/2004/02/skos/core#definition> "All parameters (including concentration, saturation, turnover and fluxes) for dissolved oxygen in sediment and sediment pore waters.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/MDWP/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/MDWP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/MDWP/> <http://purl.org/dc/terms/modified> "2017-01-23T15:40:48"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::MDWP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Metoid_WC_Part";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentration parameters for trace metalloid elements and inorganic selenium species in the particulate phase of any body of fresh or salt water collected by fitration, centrifugation or sediment trapping. Trace metalloids are considered as B, Ge, As, Sb, Te and Po (but not Si which is classed separately because of its major role in environmental chemistry).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/MDWD/5/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/MDWD/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/MDWD/> <http://purl.org/dc/terms/modified> "2017-01-23T15:40:45"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::MDWD";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Metoid_WC_Diss";
+    <http://www.w3.org/2004/02/skos/core#definition> "Concentration parameters for trace metalloid elements and non-organic selenium species in the dissolved phase of any body of fresh or salt water. This may include a contribution from the particulate phase if this has not been totally removed by filtration and the metalloid in question is reactive (ie detected as if it were dissolved) to the analytical technique used. Trace metalloids are considered as B, Ge, As, Sb, Te, and Po (but not Si which is classed separately because of its major role in environmental chemistry).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BCMT/5/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BCMT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BCMT/> <http://purl.org/dc/terms/modified> "2016-10-04T14:27:37"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BCMT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Met_Biota";
+    <http://www.w3.org/2004/02/skos/core#definition> "Metal concentrations in either whole organisms or their constituent parts.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/CCPW/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/CCPW/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/CCPW/> <http://purl.org/dc/terms/modified> "2016-06-02T15:14:26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::CCPW";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "SedPoreWat_CarbChem";
+    <http://www.w3.org/2004/02/skos/core#definition> "Carbonate system parameters (DIC/TCO2, pH, alkalinity, pCO2) in sediment pore waters".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/INVD/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/INVD/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/INVD/> <http://purl.org/dc/terms/modified> "2016-05-19T16:45:42"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::INVD";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "InvasiveSpecies";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters used to characterize and monitor biological invasion by non-native organisms.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/GPIG/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/GPIG/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/GPIG/> <http://purl.org/dc/terms/modified> "2016-02-16T15:55:29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::GPIG";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "GutPig";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters identifying or quantifying zooplankton gut pigments".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/STGC/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/STGC/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/STGC/> <http://purl.org/dc/terms/modified> "2016-02-16T15:44:14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::STGC";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "StomachGutContents";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters that characterize or quantify the contents of the stomach and gut of an animal or group of animals.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/PHLT/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/PHLT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/PHLT/> <http://purl.org/dc/terms/modified> "2015-11-16T13:22:28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::PHLT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Raw_pH_output";
+    <http://www.w3.org/2004/02/skos/core#definition> "Raw pH parameter output from any type of pH sensor.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/CARO/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/CARO/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/CARO/> <http://purl.org/dc/terms/modified> "2015-09-08T09:02:34"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::CARO";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WC_CarotFlavPig";
+    <http://www.w3.org/2004/02/skos/core#definition> "".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/IALZ/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/IALZ/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/IALZ/> <http://purl.org/dc/terms/modified> "2015-04-08T15:27:34"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::IALZ";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Littoral_TaxInsectWormAFDW";
+    <http://www.w3.org/2004/02/skos/core#definition> "Insect (Class Insecta) and earthworm (Subclass Oligochaeta) ash-free dry weight biomass per unit area of the littoral zone (between spring tide high and low water) parameters.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/INLZ/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/INLZ/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/INLZ/> <http://purl.org/dc/terms/modified> "2015-04-08T15:26:45"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::INLZ";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "InsWorm_Tax_Litabund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Insect (Class Insecta) and earthworm (Subclass Oligochaeta) abundance per unit area of the littoral zone (between spring tide high and low water) parameters.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/MFAZ/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/MFAZ/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/MFAZ/> <http://purl.org/dc/terms/modified> "2015-04-08T15:23:44"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::MFAZ";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Littoral_TaxZoobenthAFDW";
+    <http://www.w3.org/2004/02/skos/core#definition> "Any zoobenthos ash-free dry weight biomass per unit area of the littoral zone (between spring tide high and low water) parameters that are not fish or terrestrial animals (insecta/oligochaeta)".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/MFLZ/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/MFLZ/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/MFLZ/> <http://purl.org/dc/terms/modified> "2015-04-08T15:22:45"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::MFLZ";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Zoobenth_Tax_Litabund";
+    <http://www.w3.org/2004/02/skos/core#definition> "Any zoobenthos abundance per unit area of the littoral zone (between spring tide high and low water) parameters that are not fish or terrestrial animals (insecta/oligochaeta)".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BEPP/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BEPP/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BEPP/> <http://purl.org/dc/terms/modified> "2015-02-03T10:19:46"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BEPP";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Ben_PrimaryProd";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters associated with the quantification of primary production by plants living on (e.g. corals, seaweed and seagrass) or in (e.g. benthic diatoms) the seabed.  Primary production is defined as the fixation of carbon dioxide into either organic or inorganic carbon by living entities and so includes photosynthesis and calcification.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/EXSV/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/EXSV/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/EXSV/> <http://purl.org/dc/terms/modified> "2014-10-08T09:56:52"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::EXSV";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "ExpStateVar";
+    <http://www.w3.org/2004/02/skos/core#definition> "Measurements made at a given time of any state variable in a sample that is the subject of an experiment that will change the composition over time, such as the water sample in an incubation experiment.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/ZFIT/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/ZFIT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/ZFIT/> <http://purl.org/dc/terms/modified> "2014-08-04T08:52:15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::ZFIT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "ZooPhysioCondition";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters indicating the health of zooplankton and zoobenthos taxa, such as fecundity, egg condition, presence of parasites/diseases etc.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/EWSB/3/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/EWSB/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/EWSB/> <http://purl.org/dc/terms/modified> "2014-05-27T12:10:12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::EWSB";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "WindStrenDir";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters quantifying the extent or direction of atmospheric movement. Obvious examples are wind velocity, windspeed and wind direction, but can also include derived parameters such as force, energy, power and power density.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/FEFF/1/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/FEFF/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/FEFF/> <http://purl.org/dc/terms/modified> "2014-05-01T12:46:41"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::FEFF";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "FishEffort";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters that quantify or classify the physical or financial resources used in fishing activities".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/BRDA/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/BRDA/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/BRDA/> <http://purl.org/dc/terms/modified> "2014-03-26T09:14:08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::BRDA";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Bird_count";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters quantifying the number of birds (Class Aves) in a survey but not expressed per unit area. Includes presence/absence indicators.".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/SDNA/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/SDNA/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/SDNA/> <http://purl.org/dc/terms/modified> "2014-02-20T09:20:24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::SDNA";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Biolpoly_sed";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters quantifying the amount of naturally-produced organic (molecules containing carbon) compounds that are built from multiple instances of structural units (monomers) that are covalently-bonded to produce larger structures in any sediment (material collected by a corer including fluff). Includes polynucleotides (RNA and DNA), polypeptides and polysaccharides (e.g. cellulose).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/WDNA/2/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/WDNA/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/WDNA/> <http://purl.org/dc/terms/modified> "2014-02-20T09:18:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::WDNA";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Biolpoly_water";
+    <http://www.w3.org/2004/02/skos/core#definition> "Parameters quantifying the amount of naturally-produced organic (molecules containing carbon) compounds that are built from multiple instances of structural units (monomers) that are covalently-bonded to produce larger structures in any body of salt or fresh water. Includes polynucleotides (RNA and DNA), polypeptides and polysaccharides (e.g. cellulose).".
+
+<http://vocab.nerc.ac.uk/collection/P02/current/TVLT/4/> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://purl.org/dc/terms/isVersionOf> <http://vocab.nerc.ac.uk/collection/P02/current/TVLT/>.
+<http://vocab.nerc.ac.uk/collection/P02/current/TVLT/> <http://purl.org/dc/terms/modified> "2014-01-21T12:11:37"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SDN:P02::TVLT";
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Raw_SPM_optics";
+    <http://www.w3.org/2004/02/skos/core#definition> "Raw parameters (voltages and counts) from in-situ suspended particulate material sensors including transmissometers, nephelometers,in-situ particle sizers and ABS (including ADCP echo intensity).".
+
