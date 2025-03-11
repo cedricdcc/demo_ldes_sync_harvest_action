@@ -1,6 +1,7 @@
 name: ldes_fragment_maker_and_publisher
 
 on:
+  workflow_dispatch:
   pull_request:
     types: [closed]
 
