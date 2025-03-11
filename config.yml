@@ -1,7 +1,6 @@
 batch-size: 200
 target_languages:
   - fr
-  - es
 sources:
   - name: P02
     url: http://vocab.nerc.ac.uk/ldes/P02/
