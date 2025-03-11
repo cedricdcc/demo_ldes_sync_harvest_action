@@ -25,7 +25,7 @@ jobs:
           git config --global user.email 'actions@github.com'
           git fetch origin main
           git checkout ${{ github.event.pull_request.head.ref || github.ref_name }}
-          git merge origin/main
+          git merge origin/main --allow-unrelated-histories
           git push
       - name: get the current hash of the main branch and the changed files
         run: |
